@@ -9,8 +9,8 @@ for pais in paises:
 print ("Total de Países: " + str(len(paises)))
 
 for pais in paises:
-    if pais[0] == "M":
-        print("País con M: " + pais)
+    if pais[0] == "L":
+        print("País con L: " + pais)
 
 #print(paises)
 
