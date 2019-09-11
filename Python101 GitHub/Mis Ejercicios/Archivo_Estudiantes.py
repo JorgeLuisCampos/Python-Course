@@ -2,7 +2,7 @@ archivo = open("./estudiantes.txt", "w")
 while True:
     estudiante = input ("Nombre: ")   
     if estudiante == "salir":
-        print("Adios")
+        print("Adios!")
         break
     else:
         calificacion = input ("Calificación: ")
