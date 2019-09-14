@@ -1,2 +1,2 @@
 # Python-Course
-Curso de Python en  Casa Antena
+Curso de Python en Casa Antena
