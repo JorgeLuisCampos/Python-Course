@@ -18,7 +18,9 @@ class Baraja(object):
         print(self.maso.pop())
         # self.maso.pop(0)
 
-
+""" 
+Usando (instanciando) el objeto
+"""
 baraja = Baraja()
 baraja.barajear()
 baraja.repartir()
